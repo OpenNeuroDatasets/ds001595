@@ -1,0 +1,20 @@
+{
+	"Manufacturer": "Siemens",
+	"ManufacturersModelName": "TrioTim",
+	"EchoNumber": 2,
+	"AcquisitionNumber": 1,
+	"ScanningSequence": "GR",
+	"SequenceVariant": "SP",
+	"SeriesDescription": "B0map_v4",
+	"ProtocolName": "B0map_v4",
+	"SequenceName": "_fm2d2r",
+	"ImageType": ["ORIGINAL", "PRIMARY", "M", "ND"],
+	"MagneticFieldStrength": 3,
+	"FlipAngle": 60,
+	"EchoTime": 0.00559,
+	"RepetitionTime": 1,
+	"PhaseEncodingLines": 64,
+	"PhaseEncodingDirection": "j-",
+	"ConversionSoftware": "dcm2niix",
+	"ConversionSoftwareVersion": "v1.0.20170724 (OpenJPEG build) GCC6.1.0"
+}

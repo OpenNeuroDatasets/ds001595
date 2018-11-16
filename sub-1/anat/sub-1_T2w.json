@@ -1,0 +1,18 @@
+{
+	"Manufacturer": "Siemens",
+	"ManufacturersModelName": "TrioTim",
+	"EchoTrainLength": 167,
+	"AcquisitionNumber": 1,
+	"ScanningSequence": "SE",
+	"SequenceVariant": "SK_SP",
+	"ProtocolName": "HCP_T2",
+	"ImageType": ["ORIGINAL", "PRIMARY", "M", "ND", "NORM"],
+	"MagneticFieldStrength": 3,
+	"FlipAngle": 120,
+	"EchoTime": 0.567,
+	"RepetitionTime": 3.2,
+	"PhaseEncodingLines": 302,
+	"PhaseEncodingDirection": "i-",
+	"ConversionSoftware": "dcm2niix",
+	"ConversionSoftwareVersion": "v1.0.20170724 (OpenJPEG build) GCC6.1.0"
+}
