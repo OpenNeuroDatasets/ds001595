@@ -1,0 +1,19 @@
+{
+	"Manufacturer": "Siemens",
+	"ManufacturersModelName": "TrioTim",
+	"AcquisitionNumber": 1,
+	"ScanningSequence": "GR_IR",
+	"SequenceVariant": "SP_MP",
+	"SeriesDescription": "HCP_T1",
+	"ProtocolName": "HCP_T1",
+	"ImageType": ["ORIGINAL", "PRIMARY", "M", "ND", "NORM"],
+	"MagneticFieldStrength": 3,
+	"FlipAngle": 8,
+	"EchoTime": 0.00221,
+	"RepetitionTime": 2.4,
+	"InversionTime": 1.06,
+	"PhaseEncodingLines": 300,
+	"PhaseEncodingDirection": "i-",
+	"ConversionSoftware": "dcm2niix",
+	"ConversionSoftwareVersion": "v1.0.20170724 (OpenJPEG build) GCC6.1.0"
+}
